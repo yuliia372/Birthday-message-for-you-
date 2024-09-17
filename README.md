@@ -22,7 +22,7 @@
     </style>
 </head>
 <body>
-    <div id="message">Хєлоу) 🙃 натискай на єкран</div>
+    <div id="message">Хєлоу) 🙃 натискай на екран</div>
 
     <script>
         const messages = [
